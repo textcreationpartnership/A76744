@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech without doores defended without reason. Or, A vindication of the Parliaments honour: in a rejoynder to three pamphlets published in defence of M. Chaloners speech.</title>
+            <author>Birkenhead, John, Sir, 1616-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76744</idno>
+            <idno type="STC">Wing B2972</idno>
+            <idno type="STC">Thomason E365_5</idno>
+            <idno type="STC">ESTC R201245</idno>
+            <idno type="EEBO-CITATION">99861776</idno>
+            <idno type="PROQUEST">99861776</idno>
+            <idno type="VID">113921</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76744)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113921)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E365[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech without doores defended without reason. Or, A vindication of the Parliaments honour: in a rejoynder to three pamphlets published in defence of M. Chaloners speech.</title>
+                  <author>Birkenhead, John, Sir, 1616-1679.</author>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply by John Birkenhead to "The justification of a safe and wel-grounded answer to the Scottish papers, printed under the name of Master Chaloner his speech", "An answer to severall objections made against some things in Mr. Thomas Chaloners speech", and "A reply to a namelesse pamphlet, intituled, An answer to a speech without doors, &amp;c. Or, a defence of Master Chaloner's speech", in defence of Birkenheads: An answer to a speech without doores.</note>
+                  <note>Caption title.</note>
+                  <note>Publication date from colophon, place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 5 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chaloner, Thomas, 1595-1661. --  Answer to the Scotch papers.</term>
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>G. G. --  Reply to a namelesse pamphlet, intituled, An answer to a speech without doors, &amp;c. Or, a defence of Master Chaloner's speech.</term>
+               <term>Birkenhead, John, --  Sir, 1616-1679. --  Answer to a speech without doores.</term>
+               <term>Justification of a safe and wel-grounded answer to the Scottish papers, printed under the name of Master Chaloner his speech.</term>
+               <term>Answer to severall objections made against some things in Mr. Thomas Chaloners speech.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:113921:1" rendition="simple:additions"/>
+            <head>THE Speech without doores defended without reaſon. <hi>OR, A Vindication of the Parliaments honour:</hi> IN A Rejoynder to three Pamphlets publiſhed in Defence of M. <hi>Chaloners</hi> Speech.</head>
+            <epigraph>
+               <q>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </p>
+                  <bibl>Aeſchines Epiſt. 11. Senatui Populoque Athenienſi.</bibl>
+               </q>
+               <q>For I heare that ſome incite you to new things Alexander being dead: but I would adviſe you thoſe things which are fit for the future.</q>
+            </epigraph>
+            <p>I Did before give a ſufficient account of my ſelfe, and of my faithfulneſſe to the Parliament; and I muſt now ſay, that the Authours of theſe Pamphlets have been extreamly miſta<g ref="char:EOLhyphen"/>ken, and very unhappy in their Auguries concerning me. The Scripture which was prefixed in the Title of my Animadver<g ref="char:EOLhyphen"/>ſions, <hi>For the tranſgraſſion of a Land, many are the Princes there<g ref="char:EOLhyphen"/>of, Prov.</hi> 28.2. was not intended againſt the Parliament, and the Pamphlet which hath put this notion in the heads of people, hath done but a diſſervice to the Parliament: For my part, I am no ſuch Guifted Brother, as to draw from <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> what is
+<pb n="2" facs="tcp:113921:2"/>not in it, neither did I make any other uſe of my Text (as he cals it) then any Miniſter of <hi>H. M.</hi> his Ordination may doe: But it was intended againſt change of Government, which the Speech without Doors did (and the defences of it doe) too too much drive at. Amongſt other Judgements which came upon a Land for the tranſgreſſion thereof, one and a chiefe one is the change of Government, or Governours in a State, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaid <hi>Xenophon, All changes of Govern<g ref="char:EOLhyphen"/>vernment are mortiferous.</hi> And what more dangerous or deadly, then an alteration of the fundamentall Government of this Kingdome by the King, and both Houſes of Parliament? Nor doth it want its owne danger, to have many voided places in Parliament, and ſo a frequent ſucceſſion of many new Members, or to have the chiefe Officers Civill and Military put into ma<g ref="char:EOLhyphen"/>ny new hands, if the perſons intruſted be not extraordinary well principled.</p>
+            <p>The ſtate of the Queſtion between the Speech without Doors, and my Animadverſions upon it, doth not concerne the main<g ref="char:EOLhyphen"/>taining of the Law of the Land, which one of the Pamphlets would now draw into the Diſpute. I will (according to my power) maintaine the Law of the Land as much as any, and am obliged ſo to do, though not upon the reaſon given in that Pam<g ref="char:EOLhyphen"/>phlet, becauſe <hi>We are by Covenant obliged to maintaine as well the Law of the Land, as the Perſon of the King.</hi> It ſeemes this man is not well acquainted with the Covenant, read it againe, finde this in it, <hi>Et Phyllida ſolus habeto.</hi> Neither yet is our Queſtion, whethet His Majeſties Perſon is to be diſpoſed of ſolely and ſingly by the Houſes of Parliament; I ſaid not a word againſt M. <hi>Chaloners</hi> reſult or concluſion, (which his defenders chiefly ſpeake to) or in defence of the <hi>Scotch</hi> Papers, of which I ſay ſtill, let them ſpeake for themſelves. My Diſpute was and is againſt that Speech, for arguing againſt the <hi>Scotch</hi> Papers, from ſuch principles as are inconſiſtent with, and deſtructive to the honour of the Parliament, and intereſt of England. When M. <hi>Challo<g ref="char:EOLhyphen"/>ner</hi> ſhall bring convincing reaſons to prove his concluſion, I ſhall therein joyne with him, mean while my exceptions againſt his Speech ought not to be challenged as exception againſt the Votes of Parliament, concerning their right to diſpoſe of the
+<pb n="3" facs="tcp:113921:2"/>Kings Perſon. And whereas it is pleaded in the juſtification of the Speech, pag. 13. That <hi>ſince the Gentleman doth but aſſert their (the Parliaments) Votos, they would be very forgetfull of their owne intereſt, if they ſhould be offendod thereat.</hi> This is a moſt preſump<g ref="char:EOLhyphen"/>tuous and unſufferably injurious imputation to the Parliament, as if their Intereſt did engage them to approve of every Speech or Pamphlet which undertaketh to aſſert their Votes, without examining the principles and arguments of ſuch an Aſſertion, whether they be good or bad, true or falſe, conſiſtent or incon<g ref="char:EOLhyphen"/>ſiſtent with their Honours. He that will tell a notorious lie, if ſo be he do it to aſſert the Votes of Parliament, may by this rule have an eaſie excuſe.</p>
+            <p>But the <hi>Speech</hi> without Doors holdeth forth to the world not onely a ridiculous Aſſertion, but a ridiculous ſenſe of thoſe Votes of Parliament: For the Kingdoms are contending (ſaid M. <hi>Chal<g ref="char:EOLhyphen"/>loner</hi>) about the Kings Perſon, not who ſhall have it, but who ſhall not have it; which inferreth by conſequence, that the Par<g ref="char:EOLhyphen"/>liament either did not wiſely, or not uprightly in that Vote, that the Perſon of the King is to be diſpoſed of as both Houſes ſhall thinke fit. He that writes the juſtification of M. <hi>Challoners</hi> Speech (pardon me if this expreſſion be Identicall) doth indeed confute M. <hi>Challoner,</hi> while he goeth about to prove, that the Parliament did both uprightly and wiſely in that Vote: Sure, if the Parliament voted wiſely, M. <hi>Challoner</hi> ſpake not wiſely; when he did upon the matter deliver (I will not ſay, he did in<g ref="char:EOLhyphen"/>tend) this ſenſe of the Vote, That both Houſes are to diſpoſe, as they ſhall think fit, of a Perſon whom they deſire not to have in their Power, nor in the Kingdom.</p>
+            <p>If therefore, any hurt hath or ſhall come to that Vote of the Honourable Houſes, it cometh by the dangerous Arguments for it, and the ridiculous ſenſe of it, firſt delivered, and now defen<g ref="char:EOLhyphen"/>ded in M. <hi>Challoners</hi> Speech; for my part, I have ſaid nothing againſt their Vote, but vindicated their Honour. This premiſed, and the Queſtion ſtated, as before, I will ſpeake ſo much the more freely what I thinke, becauſe none of theſe Pamphlets have dared to avouch againſt me that M. <hi>Challoners</hi> Speech was prin<g ref="char:EOLhyphen"/>ted as it was ſpoken in the Houſe, (which was before pretended in the Title Page) yea the Juſtification of his Speech tells me,
+<pb n="4" facs="tcp:113921:3"/>that the Gentleman neither ownes the printing, nor the Title-page, whereby he hath ſo far juſtified me, as that I have not pre<g ref="char:EOLhyphen"/>ſumed to examine any thing ſpoken within Doors; neither did I in profeſſing this at firſt, contradict my ſelfe (as I am now char<g ref="char:EOLhyphen"/>ged) by reporting ſomewhat ſpoken by M. <hi>Challoner</hi> in the Houſe, but not printed. 'Tis one thing to intermeddle by exa<g ref="char:EOLhyphen"/>mining, another thing to make a ſimple Narration; I hope all words ſpoken within thoſe walls are not unlawfull to be utte<g ref="char:EOLhyphen"/>red againe. Well, the Speech which was out, is not yet in; we are ſtill without Doors, and now alſo without the Lines of Communication: where at the firſt view I find him who digged for me the ditch of ſelfe-contradiction, fallen into it himſelfe; For pag. 9. he holds, that the King of one Kingdome being in another Kingdome, is ſtill a King, <hi>Rex</hi> though not <hi>in Regno.</hi> Yet pag. 10. he will not admit the King of <hi>Scotland</hi> being in <hi>England,</hi> to be any more then a Subject.</p>
+            <p>Now if I were reſolved to defend the <hi>Scotch</hi> Papers (as I am not) there is no need of it; for there is not ſo much as one of our <hi>Brethrens</hi> Arguments repeated, touched, or anſwered, either in the Speech, or in the Defences of it: So that whereas the Authour of one of the Pamphlets obſerveth, that my An<g ref="char:EOLhyphen"/>ſwer did but catch at parts, and inſtances of the Speech, the Rea<g ref="char:EOLhyphen"/>der may obſerve, that my Anſwer catched at much more of the Speech, then either that Pamphlet catched of my Anſwer, or the Speech catched of the <hi>Scotch</hi> Papers: but we ſhall ſee anon whether he and his fellowes have not catched M. <hi>Challonor</hi> in<g ref="char:EOLhyphen"/>ſtead of me. The Penman of that Pamphlet, which I mention<g ref="char:EOLhyphen"/>ed laſt, is a pretender to be one of the State Wits, but he ac<g ref="char:EOLhyphen"/>counts it a pedantike confinement for wiſemen in diſcourſes of State to ſpeake properly, and his owne language is ſuitable to his rule, when he calls his Defence of M. <hi>Challoners</hi> Speech <hi>A indiffexent Cenſure</hi> of it. He would gladly have the Authour of <hi>Lex Rex</hi> (by him much miſtaken to my beſt information) to ſpeak as improperly as M. <hi>Challonor,</hi> and another of theſe Pam<g ref="char:EOLhyphen"/>phlets ſtrikes upon the ſame ſtring, although the Authour of that Book without maintaining the propriety of the terms of that diſtinction, doth onely open the ſenſe and meaning of it in other and better expreſſions; neither will all this quibling of
+<pb n="5" facs="tcp:113921:3"/>the Adiaphoriſt (for ſo his Title of <hi>A indifferent Cenſure</hi> pre<g ref="char:EOLhyphen"/>tendeth) make <hi>Perſona</hi> to be <hi>Vox Concreta,</hi> or if it be, prethee what's <hi>Perſonatus?</hi>
+            </p>
+            <p>In the next place, he would take off my exception againſt that moſt certaine truth (as he calls it) <hi>in the Speech, that the Perſon either of Prince or private man, being in a Forraign State, is at the ſole diſpoſe of that State, where he reſides, and to be ruled by their Lawes:</hi> Looke you here what a fallacious diverſion this is, he knew well that the Commiſſioners from both Houſes of Par<g ref="char:EOLhyphen"/>liament are neither Princes nor private men, and ſo he would be ſure to exempt the Commiſſioners of Parliament from ſubje<g ref="char:EOLhyphen"/>ction to the Lawes and Juriſdiction of another State. Concer<g ref="char:EOLhyphen"/>ning which, I find a ſtrange deſcrepance betweene the wit and the will of him that wrote the laſt and largeſt Juſtification of M. <hi>Challoners</hi> Speech, pag. 7.8. his will is to decline that infe<g ref="char:EOLhyphen"/>rence, that the Commiſſioners of Parliament being in <hi>Scotland</hi> muſt be at the ſole diſpoſe of that <hi>State,</hi> and ſubject to their Lawes, and Juriſdiction: yet this wit is ſuch, as doth upon the matter yeeld the ſame thing which he declineth, leaving more Authority to the Parliament over their Commiſſioners being in <hi>Scotland,</hi> then a Maſter dwelling in <hi>Scotland,</hi> hath over his ſer<g ref="char:EOLhyphen"/>vants, (which cannot ſure exempt them from being ruled by the Law of that Land) and at moſt no more then is provided by Treaty or Contract between the Kingdomes, which will a<g ref="char:EOLhyphen"/>mount to aſ much as nothing; For I dare ſay, there never was nor never will be any ſuch Treaty or Contract between theſe Kingdomes, that the Ambaſſadours or Commiſſioners ſent from the one Kingdom, ſhall not be ſubject to the Lawes, nor at the ſole diſpoſe of the other Kingdome: The Law of Nations was never yet ſo farre doubted of, as to Miniſter the leaſt occaſion for ſuch a <hi>Proviſo.</hi> But good now, how ſhall M. <hi>Challonors</hi> prin<g ref="char:EOLhyphen"/>ciples be made good, unleſſe the Commiſſioners of Parliament being in Scotland, be at the ſole diſpoſe of that State, and be ruled by their Laws, not by the Orders or Commands of both Houſes? For his Speech, pag. 6, 7. ſaith, That the locall ſubjection for the time, <hi>doth totally obſtruct the operation of the other ſubjection:</hi> and that any Subject coming from another Kingdom, <hi>is to be diſpoſed of by the ſole Authority of that Supream Power where he makes his reſidence.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:113921:4"/>
+Hence chiefly grow miſtakes in theſe debates, becauſe men would give unto others ſuch meaſure as they will not be content to receive to themſelves.</p>
+            <p>I do not know how happy the man that wrote the Indifferent cenſure may be in defending M. <hi>Challoner;</hi> But I am ſure he is no good defender of the Authority of King and Parliament. He thinks no ſober man will deny that Prince <hi>Charles</hi> is ſolely at the diſpoſe of the State of <hi>France,</hi> and that he cannot be recalled by King and Parliament. If he mean <hi>de facto,</hi> he is as wide from the thing in diſpute as none-ſenſe is from ſenſe: But if he mean <hi>de jure</hi> (which was the only thing in debate) or that King and Parliament have not an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or lawfull and juſt Authority to recall Prince <hi>Charles,</hi> but that by right and good reaſon he is at the ſole diſpoſe of the State of <hi>France,</hi> then he hath ſpoken high Treaſon, let him anſwer it as he can. Sure his words doe more then leane this way, when he addeth; That Princes who by miſ<g ref="char:EOLhyphen"/>fortune, have been caſt upon other Princes Countries, may be detained <hi>without imputation of Tyranny for taking that advantage.</hi> Where (by the way) he had done as well for the honour of the Nation to have ſpared the two Inſtances of that King in <hi>England,</hi> and to have ſought his inſtances ſomewhere elſe, the Law of God provided better entertainment for afflicted ſtran<g ref="char:EOLhyphen"/>gers, then to adde griefe to their ſorrow. If it muſt fare ſo ill with ſtrangers (whether Princes or Parliament men) me thinks it were a good motion to revive the Law of the old <hi>Aedui,</hi> that it be not lawfull for the Magiſtrate to go without his own territories.</p>
+            <p>As for my inſtance of Ambaſſadours which I brought againſt M. <hi>Challoner,</hi> all three pamphlets ſay ſomewhat of the Protecti<g ref="char:EOLhyphen"/>on and ſafety which Ambaſſadours ought to have, but nothing to the defence of M. <hi>Challoners</hi> principles, admitting of no pro<g ref="char:EOLhyphen"/>tection to Embaſſadours in <hi>England,</hi> without their ſubjection to the Lawes of <hi>England.</hi>
+            </p>
+            <p>Here, Here is a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, yea a new light, which cannot be found amongſt all the Books of the learned Polititi<g ref="char:EOLhyphen"/>ans, who are by theſe more learned Pamphleters put in a mar<g ref="char:EOLhyphen"/>vellous great miſtake for holding that Embaſſadours, however ſubject unto and obliged by the Lawes of God, Nature and Na<g ref="char:EOLhyphen"/>tions,
+<pb n="7" facs="tcp:113921:4"/>(againſt which when they do groſſely treſpaſſe, the Prince or State where they are reſident doth uſually make Remonſtrance thereof to the Prince or State that ſent them, and ſo demanded Juſtice in ſuch caſes from thoſe to whom it pro<g ref="char:EOLhyphen"/>perly belongeth to judge or puniſh them) yet they are not ſub<g ref="char:EOLhyphen"/>jected to the Government, Juriſdiction or municipall Lawes of that State, unto which they were ſent. Surely he that holdeth the contrary leaves the ſafety of Embaſſadors in a moſt lubricous poſture, by ſubjecting them to two Princes or States, whoſe ends, Counſels, opinions, intereſts and Lawes are uſually diffe<g ref="char:EOLhyphen"/>rent and not ſeldome inconſiſtent. So that <hi>Jus Legatorum,</hi> which the Nations have accounted ſacred and inviolable, ſhall be more expoſed to danger then <hi>Jus Subditorum,</hi> and an Embaſſadour <hi>qui incolumis vel inter hoſtium tela verſari poſſit</hi> (as <hi>Tully</hi> ſaith) ſhall be of all other men in leaſt ſafety. And if it be true which the Juſtifier of M. <hi>Challoners</hi> Speech ſaith, <hi>That it is not the Law of Nations</hi> (which by the way he confoundeth with the Law of Nature infuſed into all men, and will acknowledge no Law by the conſent of Nations; untill it be ratified forſooth by an Occu<g ref="char:EOLhyphen"/>menicall Parliament.) But only <hi>the particular Contract, confide<g ref="char:EOLhyphen"/>racy and Agreement betwixt his (the Embaſſadours) Master, and that Prince or State, unto whom he is ſent that can protect and de<g ref="char:EOLhyphen"/>fend him;</hi> Then we muſt bid farewell to that of <hi>Livius</hi> (gene<g ref="char:EOLhyphen"/>rally approved by Polititians) concerning the Embaſſadours of King <hi>Tarquinius,</hi> inviolable with the <hi>Romans</hi> by the Law of Na<g ref="char:EOLhyphen"/>tions, even when they were upon deſignes and practiſes againſt that State, having corrupted many of their young Nobility a<g ref="char:EOLhyphen"/>gainſt them. <hi>Quanquam viſiſunt (Legati) comiſiſſe ut hoſtium loco eſſent, jus tamen Gentium valuit.</hi>
+            </p>
+            <p>The inſtance of King <hi>John</hi> who was alſo Duke of <hi>Normandy</hi> I muſt ſtill laugh at, For M. <hi>Challenor</hi> and his Defenders take hold of the reſolution of the Lawyers in <hi>France;</hi> This peradventure might have ſeemed ſomwhat againſt the <hi>Scotch</hi> Papers; If M. <hi>Chal<g ref="char:EOLhyphen"/>lenor</hi> had not told withall, what the State of England at that time pleaded againſt the State of <hi>France.</hi> The Engliſh pleaded that although the Duke of <hi>Normandy</hi> be a Subject of <hi>France,</hi> yet the <hi>French</hi> ought not ſo much as diſpoſe of the perſon of that Subject of theirs, becauſe in ſo doing they ſhould diſpoſe of the
+<pb n="8" facs="tcp:113921:5"/>perſon of the King of <hi>England,</hi> which they held to be a great in<g ref="char:EOLhyphen"/>dignity to the Kingdome of <hi>England,</hi> juſt ſo do our Brethren of <hi>Scotland</hi> plead (I am now but ſtating matter of Fact) that it were an indignity to that free Kingdom, if the Parliament here ſhould ſingly and without the advice and conſent of the Parliament of <hi>Scotland,</hi> diſpoſe of the perſon of this Individuall King of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> becauſe in ſo doing they ſhould diſpoſe of the perſon of the King of <hi>Scotland.</hi> If M. <hi>Challenor</hi> will ſay that in the debate about King <hi>John,</hi> the <hi>French</hi> were in the right and the <hi>Engliſh</hi> in the wrong, let him ſpeake out, I have another Anſwer for him: But if he hold that the <hi>Engliſh</hi> were in the right againſt the <hi>French;</hi> Then how will he make the very ſame Argument, (in point of right or wrong) to be good in the mouthes of the <hi>Engliſh,</hi> and bad in the mouthes of the <hi>Scotch.</hi>
+            </p>
+            <p>
+               <hi>Whereas</hi> I touched as to the mutuall intereſt of two Kingdoms, and in reference to that reſolution of the Lawyers in <hi>France</hi> con<g ref="char:EOLhyphen"/>cerning the Duke of <hi>Normandy,</hi> the vaſt diſproportion between him who is a King of one Kingdome, and Subject of another, and him who is King of more Kingdoms then one, this is yeel<g ref="char:EOLhyphen"/>ded to me; But withall I am told that I am out in another kind; For there is alſo a vaſt diſproportion between a King of two Kingdomes ruling in peace and Juſtice, and one who hath been in war againſt his Kingdomes. Now ſee him that makes this Ob<g ref="char:EOLhyphen"/>jection here put out by himſelfe; For I ſhall only anſwer him in his own words, the debate is not come ſo far yet, as to queſti<g ref="char:EOLhyphen"/>on <hi>how the Kings Perſon ſhall be diſpoſed of, but by whom.</hi> If the queſtion were how to diſpoſe of him, I admit that diſproporti<g ref="char:EOLhyphen"/>on which is objected: But it is neither here nor there, when the debate is <hi>by whom,</hi> by both <hi>Kingdomes,</hi> or by <hi>England</hi> ſingly.</p>
+            <p>The Cloſe of the indifferent cenſure ſaith, That the effects of the Kings ſhelter in the <hi>Scotch</hi> Army have been already very ſad, <hi>as by Jealouſies here to keepe ſo many Armies at a needleſſe charge, and hinder the reliefe of poore Ireland:</hi> But ſith the effect could not be without the Cauſe, ſay truth now; Whether had the Armies been yet kept up, although his Majeſty had come to <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> when he went to the <hi>Scotch</hi> Army? If they had, and you Sir know they had, then you dealt not fairely nor faithfully in this Obſervation.</p>
+            <p>
+               <pb n="9" facs="tcp:113921:5"/>
+However (if you will) let the King and the <hi>Scotch</hi> be put to it, and offer made that the Parliaments Army in this Kingdome ſhall be forthwith disbanded or ſent into <hi>Ireland,</hi> upon his Ma<g ref="char:EOLhyphen"/>jeſties returning to his great Councell the Parliament, and upon our <hi>Brethrens</hi> rendring of the Garriſons, and marching away with their Army. See whether upon ſuch an offer or aſſurance his Majeſty will not give a ſatisfactory Anſwer to the Propoſitions of peace, and he returne to <hi>London,</hi> and our Brethren home a<g ref="char:EOLhyphen"/>gaine, and then the Author of the Pamphlet who begins to doubt whether <hi>Newcaſtle</hi> be in <hi>Scotland,</hi> (for I never heard it doubted by another) will be ſoone put out of doubt, or if he will he may deſire to have it preſently reſolved upon the Queſtion, that <hi>Newcaſtle</hi> is in <hi>England.</hi>
+            </p>
+            <p>I have yet ſomewhat to add concerning that Pamphlet which ends with the bleating of ſheepiſh Logick, but begins in the Ti<g ref="char:EOLhyphen"/>tle page with a pretence to <hi>anſwer all moderate men:</hi> Tis well that he makes not himſelfe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, yet as violent and injurious as he is, he hath ſaid more for me then againſt me. (If there be any thing materiall in him it is already touched, I ſhall only take hold of his acknowledgments) I had ſaid that M. <hi>Challoners</hi> Speech without Doores preſented him <hi>Goliah</hi>-like, coming forth for the Parliament, but ſtumbling wofully. My Replier tells me that God did not permit me in this to lye, I thanke him for his obſervation: Hee acknowledgeth pag. 3. That the <hi>Scots</hi> are bound to maintain the Kings perſon, if the Parliament ſhould wrong his perſon; And is not Mr. <hi>Challoners</hi> Speech here well defended? much good may this defence doe him.</p>
+            <p>Amongſt other inferences I had drawn this from Mr. <hi>Challe<g ref="char:EOLhyphen"/>nors</hi> Speech, That the perſon of the King of <hi>England</hi> if he were in <hi>Scotland,</hi> muſt be diſpoſed of by the Supreame power of that Country, without the advice and conſent of the Parliament of <hi>England,</hi> which I preſume was far from M. <hi>Challenors</hi> meaning to admit: for ſpeaking of the <hi>Scots,</hi> he ſaid, <hi>I conceive they will not take upon them any Authority to diſpoſe of the Perſon of a King of England,</hi> yet my inference is yeelded by the <hi>Replier</hi> in M. <hi>Chal<g ref="char:EOLhyphen"/>lenors</hi> name, who alſo in the Cloſe ſaith, That if the <hi>Scots</hi> ſhall get the King into <hi>Scotland, as they have no right in him,</hi> in <hi>En<g ref="char:EOLhyphen"/>gland
+<pb n="10" facs="tcp:113921:6"/>we could pertaine as little to him he being in Scotland.</hi> My In<g ref="char:EOLhyphen"/>ference is alſo confeſſed to be true, by the Author of the largeſt Pamphlet pag. 4. And who is the Malignant now, he that main<g ref="char:EOLhyphen"/>taines or they that yeeld up the Priviledge of Parliament and in<g ref="char:EOLhyphen"/>tereſt of <hi>England.</hi>
+            </p>
+            <p>No man can be ſaid to be <hi>Rex,</hi> but in <hi>Regno,</hi> ſaid M. <hi>Challenor,</hi> Then by juſt Analogy (ſaid I) The Parliament of <hi>England</hi> can<g ref="char:EOLhyphen"/>not be acknowledged a Parliament, but in <hi>England</hi> only. The Replyer tells me that M. <hi>Challenor</hi> only denyeth a forraign King the Title of that Country he ſhall happen to come unto, and not the Title of his owne that he brought with him. And that al<g ref="char:EOLhyphen"/>though in <hi>England we would not admit of Marie as Queene of England, yet was ſhe acknowledged Queene of Scotch at her being here.</hi> I confeſſe this is more then had been acknowledged in <hi>Scot<g ref="char:EOLhyphen"/>land</hi> if ſhe had been there at that time: But however I do not ſee how it agreeth with M. <hi>Challoners</hi> Speech without doores, ad<g ref="char:EOLhyphen"/>mitting of no regality in the perſon of a King of <hi>Scotland</hi> com<g ref="char:EOLhyphen"/>ing into <hi>England</hi> before the Union, and affirming that he muſt be taken as a Subject, not as a King: and I know as little, who have ever affirmed or were to be contradicted for affirming, That the King of one Kingdome coming by ſome accident into another Kingdome, doth thereby become King of that Kingdome, which he happeneth to come into. But to paſſe that, I ſhall be glad to have this riddle opened, how theſe two things (which the <hi>Re<g ref="char:EOLhyphen"/>plier</hi> holds in Mr. <hi>Challenors</hi> name) can hang together, that a King of <hi>England</hi> being in <hi>Scotland</hi> doth not loſe his intereſt in <hi>England,</hi> but is ſtill King of <hi>England,</hi> and yet his Subjects of <hi>En<g ref="char:EOLhyphen"/>gland</hi> during his being in <hi>Scotland</hi> doe not pertain to him, but loſe their intereſt and right in him. I ſhall at laſt obſerve that one part of the Speech without doores is diſclaimed (peradventure it ſhall fare ſo with other parts of it:) Tis alledged that the Gentleman ſaid not that <hi>England</hi> is as diſtinct in Intereſts from <hi>Scotland</hi> as <hi>Spaine,</hi> but that <hi>England</hi> is as diſtinct a Kingdome from <hi>Scotland</hi> as <hi>Spaine.</hi> Yet I find in that part of the Speech, the words <hi>as diſtinst</hi> repeated, and referred not to the King<g ref="char:EOLhyphen"/>domes, but to Lawes, Priviledges, Intereſts; It was this latter clauſe which I animadverted, but ſince he paſſeth from it ſo doe I; And now to conclude, I acknowledge one Error in my Anim<g ref="char:EOLhyphen"/>adverſions,
+<pb n="11" facs="tcp:113921:6"/>which none of the three Repliers have Animadver<g ref="char:EOLhyphen"/>ted, and that was the putting of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> by the Prin<g ref="char:EOLhyphen"/>ters miſtake. I am not yet convinced by my Antagoniſts, and if I had been as apt to take fire as they were to give it, my diſcourſe had broken forth in a hot flame. But I intend not <hi>oleum camino.</hi> What ever ſome men drive at, I truſt the honourable Houſes, and all true hearted <hi>English-men</hi> (and none more then my ſelfe) ſhall endeavour the preſervation of Union between the King<g ref="char:EOLhyphen"/>domes, together with a ſincere, conſtant and reall purſuance of all the other ends expreſſed in the ſolemne League and Covenant.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the Yeare 1646.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
